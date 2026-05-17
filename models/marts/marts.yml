@@ -1,0 +1,23 @@
+version: 2
+
+models:
+  - name: fct_transactions_by_country
+    columns:
+      - name: country
+        tests:
+          - not_null
+          - unique
+
+  - name: fct_transactions_by_payment_method
+    columns:
+      - name: payment_method
+        tests:
+          - not_null
+          - unique
+
+  - name: fct_flagged_transactions
+    columns:
+      - name: transaction_id
+        tests:
+          - not_null
+          - unique
