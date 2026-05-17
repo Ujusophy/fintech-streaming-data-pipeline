@@ -2,6 +2,7 @@
 
 > This is not a real payment system.
 > But it is built the way a real one would be.
+<img width="2445" height="1440" alt="image" src="https://github.com/user-attachments/assets/78dbc3d4-9e17-483a-a20a-5fd5d974c2dc" />
 
 ---
 
