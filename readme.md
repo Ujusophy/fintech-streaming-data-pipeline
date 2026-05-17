@@ -144,7 +144,3 @@ dbt test
 dbt docs generate
 dbt docs serve
 ```
-
----
-
-[Medium](your-link)
