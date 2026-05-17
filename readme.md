@@ -95,7 +95,7 @@ Transactions above 300,000 NGN are automatically flagged as suspicious. In a rea
 
 **1. Clone the repo**
 ```bash
-git clone https://github.com/Ujusophy/fintech-streaming-pipeline
+git clone https://github.com/Ujusophy/fintech-streaming-data-pipeline
 cd fintech-streaming-data-pipeline
 ```
 
